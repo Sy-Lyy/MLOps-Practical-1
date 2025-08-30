@@ -6,3 +6,4 @@ This is my first GitHub repository for the MLOps practical session.
 ## About Me
 Hi, I’m Sooyoung.
 I’m learning how to use GitHub Issues.
+Update README with intro draft (see #1)
